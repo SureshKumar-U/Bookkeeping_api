@@ -18,7 +18,6 @@ Build a bookkeeping service where there are three models namely Books, Users and
 
    ```bash
    git clone https://github.com/your-username/bookkeeping-service.git
-   cd bookkeeping-service
 
    cd bokkepping
    
