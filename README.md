@@ -19,7 +19,7 @@
    ```bash
    git clone https://github.com/SureshKumar-U/Bookkeeping_api.git
 
-   cd bokkepping
+   cd Bookkeeping_api
    
 2. **Install dependencied:**
 
