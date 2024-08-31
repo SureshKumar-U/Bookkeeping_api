@@ -4,7 +4,7 @@ Build a bookkeeping service where there are three models namely Books, Users and
 
 
 
-## 🛠️ Tech Stack
+## Technologioes used
 
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
@@ -12,7 +12,7 @@ Build a bookkeeping service where there are three models namely Books, Users and
 - **Storage:** Firebase (for storing book cover images)
 
 
-## 📦 Installation
+## Installation
 
 1. **Clone the repository:**
 
@@ -20,4 +20,16 @@ Build a bookkeeping service where there are three models namely Books, Users and
    git clone https://github.com/your-username/bookkeeping-service.git
    cd bookkeeping-service
 
-   ---bash
+   cd bokkepping
+   
+2. **Install dependencied:**
+
+   ```bash
+   npm install
+
+
+3. **Run the server:**
+   
+   ```bash
+   npm run dev
+   
