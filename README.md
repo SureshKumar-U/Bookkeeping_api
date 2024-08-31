@@ -17,7 +17,7 @@ Build a bookkeeping service where there are three models namely Books, Users and
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/bookkeeping-service.git
+   git clone https://github.com/SureshKumar-U/Bookkeeping_api.git
 
    cd bokkepping
    
