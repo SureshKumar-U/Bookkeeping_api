@@ -1,0 +1,19 @@
+{"de": {
+    "unauthorized": "Nicht autorisiert",
+    "forbidden": "Verboten",
+    "bookNotFound": "Buch nicht gefunden",
+    "libraryNotFound": "Bibliothek nicht gefunden",
+    "bookCreated": "Buch erfolgreich erstellt",
+    "bookUpdated": "Buch erfolgreich aktualisiert",
+    "bookDeleted": "Buch erfolgreich gelöscht",
+    "userRegistered": "Benutzer erfolgreich registriert",
+    "invalidCredentials": "Ungültige Anmeldeinformationen",
+    "bookBorrowed": "Buch erfolgreich ausgeliehen",
+    "bookReturned": "Buch erfolgreich zurückgegeben",
+    "libraryCreated": "Bibliothek erfolgreich erstellt",
+    "libraryUpdated": "Bibliothek erfolgreich aktualisiert",
+    "libraryDeleted": "Bibliothek erfolgreich gelöscht",
+    "bookAddedToInventory": "Buch zum Bibliotheksbestand hinzugefügt",
+    "bookRemovedFromInventory": "Buch aus dem Bibliotheksbestand entfernt"
+  }
+}

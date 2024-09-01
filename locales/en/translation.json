@@ -1,0 +1,20 @@
+{
+  "en": {
+    "unauthorized": "Unauthorized",
+    "forbidden": "Forbidden",
+    "bookNotFound": "Book not found",
+    "libraryNotFound": "Library not found",
+    "bookCreated": "Book created successfully",
+    "bookUpdated": "Book updated successfully",
+    "bookDeleted": "Book deleted successfully",
+    "userRegistered": "User registered successfully",
+    "invalidCredentials": "Invalid credentials",
+    "bookBorrowed": "Book borrowed successfully",
+    "bookReturned": "Book returned successfully",
+    "libraryCreated": "Library created successfully",
+    "libraryUpdated": "Library updated successfully",
+    "libraryDeleted": "Library deleted successfully",
+    "bookAddedToInventory": "Book added to library inventory",
+    "bookRemovedFromInventory": "Book removed from library inventory"
+  }
+}
