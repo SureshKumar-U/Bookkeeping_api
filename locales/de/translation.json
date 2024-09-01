@@ -1,4 +1,4 @@
-{"de": {
+{
     "unauthorized": "Nicht autorisiert",
     "forbidden": "Verboten",
     "bookNotFound": "Buch nicht gefunden",
@@ -14,6 +14,13 @@
     "libraryUpdated": "Bibliothek erfolgreich aktualisiert",
     "libraryDeleted": "Bibliothek erfolgreich gelöscht",
     "bookAddedToInventory": "Buch zum Bibliotheksbestand hinzugefügt",
-    "bookRemovedFromInventory": "Buch aus dem Bibliotheksbestand entfernt"
-  }
+    "bookRemovedFromInventory": "Buch aus dem Bibliotheksbestand entfernt",
+    "all_fields_are_mandatory":"Alle Felder sind obligatorisch",
+    "server_error":"Interner oder externer Serverfehler",
+    "invalid_role":"Die Rolle muss entweder Autor oder Entleiher sein",
+    "user_already_existed" :"Benutzer existierte bereits mit dieser E-Mail",
+    "no_file_uploaded":"Keine Datei hochgeladen",
+    "login_successful":"Anmeldung erfolgreich",
+    "all_libraries_fetched_successfully":"Alle Bibliotheken wurden erfolgreich abgerufen",
+    "id_is_mandatory":"Id ist obligatorisch"
 }

@@ -7,10 +7,11 @@ i18n
   .use(Backend)
   .use(i18nextMiddleware.LanguageDetector)
   .init({
+    debug:true,
     fallbackLng: 'en', // Default language
     preload: ['en','de'], // Languages to preload
     backend: {
-      loadPath: path.join(__dirname, 'locales/{{lng}}/translation.json'),
+      loadPath: path.join(process.cwd(),"locales", "{{lng}}", "translation.json"),
     },
   });
 

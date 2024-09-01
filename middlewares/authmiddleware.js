@@ -8,9 +8,11 @@ const checkAuth = (req, res, next) => {
     return res.status(401).json({ message: req.t('unauthorized') });
   }
 
-  const token = authHeader.split(' ')[1];
+  const token = authHeader.split(' ')[1].trim();
+  console.log(token)
   jwt.verify(token, process.env.JWT_SECRET, async (err, decoded) => {
     if (err) {
+      console.log(err)
       return res.status(403).json({ message: req.t('forbidden') });
     }
 

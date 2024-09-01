@@ -11,9 +11,9 @@ router.delete("/:id/inventory", deleteBookFromLibrary)
 
 
 // Protected routes
-router.post('/', checkAuth, checkRole('Admin'), createLibrary);
-router.put('/:id', checkAuth, checkRole('Admin'), updateLibrary);
-router.delete('/:id', checkAuth, checkRole('Admin'), deleteLibrary);
+router.post('/', checkAuth, checkRole('Author'), createLibrary);
+router.put('/:id', checkAuth, checkRole('Author'), updateLibrary);
+router.delete('/:id', checkAuth, checkRole('Author'), deleteLibrary);
 
 
 

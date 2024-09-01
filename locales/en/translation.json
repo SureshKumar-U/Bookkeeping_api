@@ -1,5 +1,4 @@
 {
-  "en": {
     "unauthorized": "Unauthorized",
     "forbidden": "Forbidden",
     "bookNotFound": "Book not found",
@@ -15,6 +14,13 @@
     "libraryUpdated": "Library updated successfully",
     "libraryDeleted": "Library deleted successfully",
     "bookAddedToInventory": "Book added to library inventory",
-    "bookRemovedFromInventory": "Book removed from library inventory"
-  }
+    "bookRemovedFromInventory": "Book removed from library inventory",
+    "all_fields_are_mandatory":"All fields are mandatory",
+    "server_error":"Internal or external server error",
+    "invalid_role":"Role must be either Author or Borrower",
+    "user_already_existed":"User already existed with these email",
+    "no_file_uploaded":"No file uploaded",
+    "login_successful":"Login successful",
+    "all_libraries_fetched_successfully":"All libraries fetched successfully",
+    "id_is_mandatory":"Id is mandatory"
 }
