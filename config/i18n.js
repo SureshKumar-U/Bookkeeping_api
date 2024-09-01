@@ -12,7 +12,7 @@ i18n
     preload: ['en','de'], // Languages to preload
     backend: {
       loadPath: path.join(process.cwd(),"locales", "{{lng}}", "translation.json"),
-    },666666
+    },
   });
 
 module.exports = i18n;
